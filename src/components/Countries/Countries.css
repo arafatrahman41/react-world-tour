@@ -8,6 +8,10 @@
     background-color: skyblue;
 }
 
+.flag-container img{
+    width: 100px;
+}
+
 @media screen and (max-width: 576px){
     .country-container{
         display: grid;
