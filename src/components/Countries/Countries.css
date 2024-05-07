@@ -4,6 +4,10 @@
     gap: 10px;
 }
 
+.visited{
+    background-color: skyblue;
+}
+
 @media screen and (max-width: 576px){
     .country-container{
         display: grid;
